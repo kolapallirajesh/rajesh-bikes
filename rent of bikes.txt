@@ -1,0 +1,7 @@
+rent of bikes
+
+sports bike rent per hour   =1000
+glider bike rent per hour      =800
+scotter bike rent per hour      =500
+crusier bike rent per hour    =800
+eklectric bike renr per hour  500
